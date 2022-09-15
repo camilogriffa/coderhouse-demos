@@ -1,0 +1,27 @@
+.imageNav{
+  height: 70px;
+}
+.linkNav a{
+  font-size: 20px;
+}
+
+.textoItem{
+  color: red;
+}
+
+
+
+
+
+.navbar__fondo{
+  background: rgb(56,56,56);
+  background: linear-gradient(180deg, rgba(0,0,0,1) 18%, rgba(252,36,36,1) 100%);}
+  
+  
+  .carousel{
+    width: 100%;
+    height: 700px;
+  }
+  .parrafo{
+    color:black
+  }
